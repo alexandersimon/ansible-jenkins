@@ -1,0 +1,5 @@
+
+apache-jenkins ansible_host=172.31.5.76
+
+[cicd]
+apache-jenkins
